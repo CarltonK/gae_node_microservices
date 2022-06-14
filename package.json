@@ -1,0 +1,26 @@
+{
+  "name": "gae_node_microservices_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarltonK/gae_node_microservices.git"
+  },
+  "author": "Mark Carlton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarltonK/gae_node_microservices/issues"
+  },
+  "homepage": "https://github.com/CarltonK/gae_node_microservices#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

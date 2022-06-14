@@ -1,0 +1,17 @@
+{
+  "name": "service-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Carlton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
