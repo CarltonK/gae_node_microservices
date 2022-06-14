@@ -1,5 +1,5 @@
 dispatch:
-  - url: "service-one-dot-nijenge.nw.r.appspot.com"
+  - url: "*/service-one/*"
     module: service-one
   - url: "*/service-two/*"
     module: service-two
